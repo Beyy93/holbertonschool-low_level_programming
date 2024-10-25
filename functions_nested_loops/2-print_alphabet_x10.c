@@ -2,9 +2,9 @@
 #include <unistd.h>
 
 /**
- * print_alphabet_10x - Entry point
+ * print_alphabet_10x - Make alphabet x10 times
  *
- * Return: Always void (Success)
+ * Return : void
  */
 
 void print_alphabet_x10(void)
