@@ -6,5 +6,5 @@ int _islower(int c);
 int _putchar(char c);
 int _isalpha(char c);
 int print_sign(int n);
-int _abs(int);
+int _abs(int x);
 #endif
