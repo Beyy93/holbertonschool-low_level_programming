@@ -1,6 +1,6 @@
 #include "main.h"
 
-int _abs(int)
+int _abs(int n)
 {
 	int n;
 
